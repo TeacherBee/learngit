@@ -11,4 +11,4 @@ change 4 timese
 
 create a new branch dev
 
-create a new branch feature1 but different in master
+create a new branch feature1
